@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVMArchitectureDataBinding</string>
+    <string name="web_client_id">778751829297-3cijdp8rvr40pttegq0p3rmtf48rbbn1.apps.googleusercontent.com</string>
+    <string name="profile_image_desc">Profile Image</string>
+    <string name="username_placeholder">Username</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="onboarding_image_desc">Onboarding Image</string>
+    <string name="get_started">Get Started</string>
+</resources>

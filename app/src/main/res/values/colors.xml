@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="active_dot_color">#00BCD4</color> <!-- Blue color -->
+    <color name="inactive_dot_color">#CCCCCC</color> <!-- Gray color -->
+</resources>
